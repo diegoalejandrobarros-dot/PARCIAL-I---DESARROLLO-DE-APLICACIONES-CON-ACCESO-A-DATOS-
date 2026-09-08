@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titular": "diego",
+        "valor": 2000000.0,
+        "hora": 4,
+        "pais": "COLOMBIa",
+        "dispositivo_conocido": true,
+        "puntaje_riesgo": 50,
+        "clasificacion": "SOSPECHOSA"
+    },
+    {
+        "id": 2,
+        "titular": "Laura Gomez",
+        "valor": 3500000,
+        "hora": 2,
+        "pais": "Colombia",
+        "dispositivo_conocido": false,
+        "puntaje_riesgo": 80,
+        "clasificacion": "ALTO RIESGO"
+    },
+    {
+        "id": 3,
+        "titular": "Carlos Perez",
+        "valor": 500000,
+        "hora": 14,
+        "pais": "Colombia",
+        "dispositivo_conocido": true,
+        "puntaje_riesgo": 0,
+        "clasificacion": "NORMAL"
+    },
+    {
+        "id": 4,
+        "titular": "Ana Torres",
+        "valor": 2500000,
+        "hora": 10,
+        "pais": "Peru",
+        "dispositivo_conocido": true,
+        "puntaje_riesgo": 55,
+        "clasificacion": "SOSPECHOSA"
+    }
+]
